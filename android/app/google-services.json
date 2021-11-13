@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "280433520407",
+    "project_id": "load-pdf-7cca2",
+    "storage_bucket": "load-pdf-7cca2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280433520407:android:473b30dba6d244f3a99152",
+        "android_client_info": {
+          "package_name": "com.example.load_pdf_from_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280433520407-d096hka3r596dfd5has56idgr9m8gqhv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuXLF7_YqM8y9Q7LDW0FTaOqDi4pjct1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280433520407-d096hka3r596dfd5has56idgr9m8gqhv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
